@@ -1,6 +1,7 @@
 # kafkaTopicRebalance
 
 --- kafka tipic 迁移工具 ---
+
     Step 1
 
         编辑  what-needed.sh
